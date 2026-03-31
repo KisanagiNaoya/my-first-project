@@ -1,26 +1,4 @@
-#<!DOCTYPE html>
-<html>
-<head>
-  <title>My Portfolio</title>
-  <style>
-    body {
-      font-family: Arial;
-      text-align: center;
-      background: #f5f5f5;
-    }
-    h1 {
-      color: #333;
-    }
-    .card {
-      background: white;
-      margin: 20px auto;
-      padding: 20px;
-      width: 300px;
-      border-radius: 10px;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>Hello, I'm [KisanagiNaoya]</h1>
 
